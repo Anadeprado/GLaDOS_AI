@@ -1,9 +1,7 @@
-# GLaDOS_AI
-This project recreates GLaDOS from Portal 2 as a real robot, combining mechanical design with advanced AI. It features articulated hardware and AI-driven voice, dialogue, and behavior to bring her personality to life through interactive, character-rich responses.
+# GLaDOS AI - Robot Project – Hardware & AI Integration
 
-# Project Description: Building and Programming a GLaDOS-Inspired Robot
-
-This project focuses on the design, construction, and intelligent programming of a physical robot modeled after GLaDOS, the iconic artificial intelligence from the Portal 2 video game. The initiative combines both hardware development and cutting-edge artificial intelligence to bring the character to life in the real world.
+# Project Description:
+This project aims to build a real-life version of GLaDOS from Portal 2, combining robotics and advanced AI. The hardware involves constructing a suspended robotic structure with articulated movements to mimic GLaDOS’s iconic design. On the software side, we use cutting-edge AI models for voice synthesis, natural language understanding, and behavior simulation to recreate her sarcastic, intelligent personality. The result is an interactive robot capable of realistic conversation and dynamic, character-driven responses.
 
 ## 1. Hardware Construction
 The hardware phase involves creating a physical replica of GLaDOS with articulated mechanical components. The structure includes:
@@ -11,6 +9,11 @@ The hardware phase involves creating a physical replica of GLaDOS with articulat
 - Servo motors and actuators for realistic articulation of the neck, head, and eye units.
 - Embedded sensors such as microphones, cameras, and depth sensors to enable environmental awareness.
 - A custom frame and mounting system to simulate her ceiling-mounted presence.
+
+For this project have been used the awesome 3D printable parts from Ytec3D:
+https://ytec3d.com/glados-lamp/
+
+Visit her website and discover her wonderful projects 😻🤖. Thank you Ytect! They are an inspiration for me :)
 
 ## 2. Software & AI Development
 The software side focuses on imbuing GLaDOS with a personality and intelligence system using advanced AI models:
